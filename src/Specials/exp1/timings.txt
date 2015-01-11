@@ -1,0 +1,5 @@
+after FRAME08, comes the exp2 animation, then FRAME09
+exp1
+axis
+59
+95

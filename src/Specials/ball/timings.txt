@@ -1,0 +1,5 @@
+Ball
+
+3rd frame - Get Away
+6th frame - Effect Sound
+7th frame - hits

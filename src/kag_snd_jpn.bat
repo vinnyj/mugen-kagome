@@ -1,0 +1,1 @@
+sndmaker.exe < kag_snd_jpn.txt

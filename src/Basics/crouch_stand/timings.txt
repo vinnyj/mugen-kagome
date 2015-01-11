@@ -1,0 +1,8 @@
+Crouch to Stand Animation Timings
+===================================
+
+cts1 1
+cts2 1
+cts3 1
+cts4 1
+cts5 1

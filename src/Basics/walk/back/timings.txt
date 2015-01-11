@@ -1,0 +1,22 @@
+20 Frames..
+
+walkback1 1
+walkback2 1
+walkback3 1
+walkback4 1
+walkback5 1
+walkback6 1
+walkback7 1
+walkback8 1
+walkback9 1
+walkback10 1
+walkback11 1
+walkback12 1
+walkback13 1
+walkback14 1
+walkback15 1
+walkback16 1
+walkback17 1
+walkback18 1
+walkback19 1
+walkback20 1

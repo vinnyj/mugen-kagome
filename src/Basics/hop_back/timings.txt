@@ -1,0 +1,16 @@
+14 Frames total for Hop Backwards
+
+hop_back1 1  ;This frame is the standing animation frame 1
+hop_back2 1
+hop_back3 1
+hop_back4 1
+hop_back5 1
+hop_back6 1
+hop_back7 1
+hop_back8 1
+hop_back9 1
+hop_back10 1
+hop_back11 1
+hop_back12 1
+hop_back13 1
+hop_back14 1 ;This frame is the standing animation frame 1

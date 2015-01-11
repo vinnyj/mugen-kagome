@@ -1,0 +1,144 @@
+;Description of Animation (Artmoney Value for ID)
+; Information gathered by VinceJ using Artmoney Pro
+; List is still incomplete
+;
+;Basic Movement
+;----------------------------------------------------------------------------------------------------
+Standing Animation         (Animation ID 1)
+Turning                    (Animation ID 2)
+Stand to crouch            (Animation ID 3)
+Crouching animation        (Animation ID 4)
+Crouch to Stand            (Animation ID 5)
+Crouch Turning             (Animation ID 6)
+Walking Forward            (Animation ID 7)
+Walking Back               (Animation ID 8)
+Run forwards               (Animation ID 9)
+Hop backwards              (Animation ID 10)
+
+Air Dash Forwards          (Animation ID 11) ;Some Characters don't Air Dash
+
+Jump start frame           (Animation ID 12)
+Starting Jumping up        (Animation ID 13)
+Starting Jumping forwards  (Anim ID 13)
+Starting Jumping backwards (Anim ID 13)
+
+(Animation ID 14 for PEAK, Animation ID 15 for Coming down)
+Peak and coming down from Jumping up        (Animation ID 14, Animation ID 15)
+Peak and coming down from Jumping forwards  (Anim ID 14,15)
+Peak and coming down from Jumping backwards (Anim ID 14,15)
+
+Jump land animation      (Animation ID 16)
+
+Standing Guard START     (Animation ID 17)
+Standing Guard GUARDING  (Animation ID 18)
+Standing Guard END       (Animation ID 19)
+
+Crouching Guard START    (Animation ID 20)
+Crouching Guard GUARDING (Animation ID 21)
+Crouching Guard END      (Animation ID 22)
+
+Air Guard START          (Animation ID 23)
+Air Guard GUARDING       (Animation ID 24)
+Air Guard END            (Animation ID 25)
+
+Hit back while Guarding (Stand)  (Anim ID 18)
+Hit back while Guarding (Crouch) (Anim ID 21)
+Hit back while Guarding (Air)    (Anim ID 24)
+
+Stand/Air Hit high (light,medium,hard) (Animation ID 84)
+Stand/Air Hit low (light,medium,hard)  (Animation ID 85)
+Crouch Hit (light,medium,hard)         (Animation ID 86)
+
+Air Fall, Stand/Air Hit back           (Animation ID 88)
+Bounce into Air                        (Animation ID 89)
+LieDead                                (Animation ID 90)
+Getup from liedown                     (Animation ID 91)
+
+;Basic Attacks
+------------------------------------------------
+Standing Light Punch        (Animation ID 34)
+Standing Light Punch Combo  (Animation ID 35)
+Standing Hard Punch         (Animation ID 36)
+Standing Hard Punch Combo   (Animation ID 37)
+Crouching Light Punch       (Animation ID 38)
+Crouching Light Punch Combo (Animation ID 39)
+Crouching Hard Punch        (Animation ID 40)
+Crouching Hard Punch Combo  (Animation ID 41)
+Air Light Punch             (Animation ID 42)
+Air Hard Punch              (Animation ID 43)
+Dash Fwd Attack             (Animation ID 44)
+Dash Back Attack            (Animation ID 45)
+
+;Throws (Animation ID 46, 47, 48)
+;Character Specific Throws
+---------------------------------------------
+"Sit Boy!" Animation           (Animation ID 46) ;Kagome Only (18 frames only, any more and it crashes)
+Kagome's Backpack Thrash Throw (Animation ID 47);Against Everyone except Normal Inuyasha
+Kagome's Air Throw             (Animation ID 48)
+
+Inuyasha's Dirt Throw          (Animation ID 46);Friendly Females and Shippo
+Inuyasha's Grab+Punch Throw    (Animation ID 47); Males and Enemies
+Inuyasha's Air Throw           (Animation ID 48)
+
+;Special Animations
+;-----------------------------------------------------------------------------------------------------
+Groped by Miroku               (Animation ID 95) ;Against Females Only, others get corrupted graphics
+
+;INUYASHA
+;--------------
+Pre-Sit Animation              (Animation ID 94) ;Inuyasha Exclusive Only (8  Sprites)
+Sit Animation                  (Animation ID 52) ;Inuyasha Exclusive Only (17 Sprites)
+Sit Animation Get-Up           (Animation ID 53) ;Inuyasha Exclusive Only (16 Sprites)
+
+Iron Reaver, Soul Stealer      (Animation ID 69)
+
+Hijin Ketsu Stand              (Animation ID 75)
+Hijin Ketsu Air                (Animation ID 79)
+Hijin Ketsu Projectile         (Animation ID 49)
+
+Kaze No Kizu                   (Animation ID 72)
+
+;KAGOME
+;-------------
+Kagome's Anger Explosion       (Animation ID 72) ;25 sprites
+Kagome's Anger Explosion       (Animation ID 73) ;16 sprites, Without effect
+Kagome Arrow start             (Animation ID 75) ;12 Sprites
+Kagome Arrow Release           (Animation ID 76) ;7 Sprites
+Kagome Arrow End               (Animation ID 77) ;5 Sprites
+Super Arrow                    (Animation ID 81) 
+
+;----------------------------------------------------------------------------------------------------
+Parry Attempt Start    (Animation ID 26)
+Parry Attempt          (Animation ID 27)  
+Parry Attempt End      (Animation ID 28)
+Parry Successful       (Animation ID 29)
+
+Crouching Parry Attempt Start (Animation ID 30)
+Crouching Parry Attempt       (Animation ID 31)
+Crouching Parry Attempt End   (Animation ID 32)
+Crouch Parry Successful       (Animation ID 33)
+
+Parried by Enemy (Animation ID 92) ;Aka Stagger
+
+; Misc Animations
+;-----------------------------------------------------------------------------------------------------
+Intro 1                        (Animation ID 110)
+Intro 2                        (Animation ID 111)
+Second half of intro 1 ??      (Animation ID 112)
+Stand Animation for Intro      (Animation ID 113)
+Winpose                        (Animation ID 114)
+WinPose 2                      (Animation ID 115)
+
+Lose Animation                  (Animation ID 116)
+Lose Animation 2                (Animation ID 117)
+
+;Projectiles
+-------------------
+Wind Projectile (Kagura)        (Animation ID 51)
+Dead Guy with Sword (Kagura)    (Animation ID 54)
+Tornado (Kagura)                (Animation ID 55)
+Kanna (Kagura)                  (Animation ID 56)
+Wind Projectile (Kagura)        (Animation ID 57)
+Wind Projectile Bigger (Kagura) (Animation ID 58)
+
+

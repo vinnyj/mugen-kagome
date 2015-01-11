@@ -1,0 +1,24 @@
+All jumping frames timings, for jump start, jumping up/fwd/back,
+peak + coming down/fwd/back and landing. (Timings will be doubled for 30fps -> 60fps)
+
+jumpstart1 1
+jumpstart2 1
+
+jump_up1 1
+jump_up2 1
+jump_up3 1
+jump_up4 1
+jump_up5 1
+
+jump_peak1 1
+
+jump_dwn1 1
+jump_dwn2 1
+jump_dwn3 1
+jump_dwn4 1
+jump_dwn5 1
+jump_dwn6 1
+
+jump_land1 1
+jump_land2 1
+jump_land3 1

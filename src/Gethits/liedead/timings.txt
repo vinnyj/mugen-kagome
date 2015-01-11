@@ -1,0 +1,9 @@
+Liedead Animation
+-------------------
+Liedead1 16           ;FRAME02
+liedead2 4            ;FRAME03
+liedead3 4            ;FRAME04
+liedead4 8            ;FRAME05
+liedead5 4  ;Liedead3 ;FRAME06
+liedead6 4  ;Liedead2 ;FRAME07
+liedead7 12 ;Liedead1 ;FRAME08

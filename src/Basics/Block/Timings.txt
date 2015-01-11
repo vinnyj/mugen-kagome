@@ -1,0 +1,41 @@
+;Timings for Blocking (Standing, Crouching and Air)
+;------------------------------------------------------
+
+block1 1  ;Stand Guard START Begin
+block2 1
+block3 1
+block4 1  ;Stand Guard START Finish
+
+Guarding1 1 ; Stand Guard GUARDING
+
+blockend1 1 ; Stand Guard END Begin
+blockend2 1
+blockend3 1
+blockend4 1
+blockend5 1 ; Stand Guard END Finish
+
+;-----------------------------------------
+
+cblock1 1 ;Crouch Guard START Begin
+cblock2 1
+cblock3 1
+cblock4 1 ;Crouch Guard START Finish
+
+cGuarding1 ;Crouch Guard GUARDING
+
+cblockend1 1 ;Crouch Guard END Begin
+cblockend2 1
+cblockend3 1
+cblockend4 1
+cblockend5 1 ;Crouch Guard END Finish
+
+;--------------------------------------------------
+
+airblock1 1 ;Air Guard START Begin
+airblock2 1 ;Air Guard START Finish
+ 
+aGuarding1 1 ;Air Guard GUARDING
+
+ablockend1 1 ;Air Guard END Begin
+ablockend2 1
+ablockend3 1 ;Air Guard END Finish

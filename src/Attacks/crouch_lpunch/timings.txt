@@ -1,0 +1,12 @@
+clpunch1
+clpunch2
+clpunch3
+clpunch4
+clpunch5
+clpunch6
+clpunch7
+clpunch8
+clpunch9
+clpunch10
+
+frame 5 = hits

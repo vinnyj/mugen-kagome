@@ -1,0 +1,15 @@
+Standing Light Punch
+--------------------
+lpunch1 1
+lpunch2 1
+lpunch3 1
+lpunch4 1
+lpunch5 1
+lpunch6 1
+lpunch7 1
+lpunch8 1
+lpunch9 1
+lpunch10 1
+
+5th frame hits opponent
+

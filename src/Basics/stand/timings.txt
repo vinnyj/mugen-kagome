@@ -1,0 +1,56 @@
+64 frames. Some repeats, this file is to merge the repeats into ticks.
+
+
+ODIN Possibility dupes:
+==============
+stand 3,4
+stand 5,6,7,8
+stand 9,10,11,12
+stand 14,15,16
+stand 17,20
+stand 18,19
+stand 21,22,23,24
+stand 25,26
+stand 27,28
+stand 30,31,32
+stand 34,35,36
+stand 37,38,39,40
+stand 41,42,43,44
+stand 45,46,47,48
+stand 50,51
+stand 57,58
+stand 59,60
+stand 63,64
+=============
+ODIN Non-dupes? Some were dupes
+
+stand 1,2,13,29,33,49,52,53,54,55,56,61,62
+==============
+
+stand1  1
+stand2  1
+stand3  2 (3,4)
+stand5  4 (5,6,7,8)
+stand9  4 (9,10,11,12)
+stand13 4 (13,14,15,16)
+stand17 4 (17,18,19,20)
+stand21 4 (21,22,23,24)
+stand25 2 (25,26)
+stand27 2 (27,28)
+stand29 1
+stand30 3 (30,31,32)
+stand33 1
+stand34 3 (34,35,36)
+stand37 4 (37,38,39,40)
+stand41 4 (41,42,43,44)
+stand45 4 (45,46,47,48)
+stand49 1
+stand50 2 (50,51)
+stand52 1
+stand53 1
+stand54 2 (54,55)
+stand56 1
+stand57 2 (57,58)
+stand59 2 (59,60)
+stand61 1
+stand62 3 (62,63,64)

@@ -1,0 +1,16 @@
+14 frames total for Hop Forwards
+
+hop_fwd1 1 ;This frame is the standing animation frame 1
+hop_fwd2 1
+hop_fwd3 1
+hop_fwd4 1
+hop_fwd5 1
+hop_fwd6 1
+hop_fwd7 1
+hop_fwd8 1
+hop_fwd9 1
+hop_fwd10 1
+hop_fwd11 1
+hop_fwd12 1
+hop_fwd13 1
+hop_fwd14 1

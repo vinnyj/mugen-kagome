@@ -1,0 +1,22 @@
+20 frames, this file is to organize said frames into ticks or just for reference.
+
+walkfwd1  1
+walkfwd2  1 
+walkfwd3  1
+walkfwd4  1
+walkfwd5  1
+walkfwd6  1
+walkfwd7  1
+walkfwd8  1
+walkfwd9  1
+walkfwd10 1
+walkfwd11 1
+walkfwd12 1
+walkfwd13 1
+walkfwd14 1
+walkfwd15 1
+walkfwd16 1
+walkfwd17 1
+walkfwd18 1
+walkfwd19 1
+walkfwd20 1

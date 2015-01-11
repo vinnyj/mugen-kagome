@@ -1,0 +1,1 @@
+sprmaker.exe < kagome.txt -c -f -p -q

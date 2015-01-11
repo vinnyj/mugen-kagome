@@ -1,0 +1,38 @@
+Lose Animation
+----------------------------
+Lose1 1 ;FRAME02  ;Stand1
+Lose2 1 ;FRAME03
+Lose3 1 ;FRAME04
+Lose4 1 ;FRAME05
+Lose5 1 ;FRAME06
+Lose6 1 ;FRAME07
+Lose7 2 ;FRAME08
+Lose8 1 ;FRAME10
+Lose9 1 ;FRAME11
+Lose10 1 ;FRAME12
+Lose11 1 ;FRAME13
+Lose12 1 ;FRAME14
+Lose13 1 ;FRAME15
+Lose14 5 ;FRAME16
+Lose15 1 ;FRAME21
+Lose16 2 ;FRAME22
+
+;Kagome draws on ground with forefinger
+Lose17 1 ;FRAME24
+
+LoopStart
+
+Lose18 5 ;FRAME25
+Lose19 5 ;FRAME30
+Lose20 5 ;FRAME35
+
+Lose21 5 ;FRAME40 ;FRAME25
+Lose22 5 ;FRAME45 ;FRAME30
+Lose23 5 ;FRAME50 ;FRAME35
+Lose24 5 ;FRAME55
+Lose25 5 ;FRAME60
+Lose26 5 ;FRAME65
+Lose27 5 ;FRAME70
+Lose28 5 ;FRAME75
+Lose29 5 ;FRAME80
+Lose30 7 ;FRAME85
