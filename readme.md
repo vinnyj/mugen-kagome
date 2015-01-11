@@ -1,4 +1,3 @@
----
 ####__Kagome Higurashi from Inuyasha: Sengoku Otogi Kassen__
 #####Version ?.?? for M.U.G.E.N 1.1
 ######*Ported by VinnyJ*
@@ -25,37 +24,35 @@ The addition colors for the backpack, caused earlier color separation work to fa
 
 2.  __Inuyasha-Specific__ : The "Sit Boy!" throw can miss, this is intentional behavior. No voice sample is played to reflect this.
 
----
-#Notes:
+##Notes:
 
 Make sure you have the in_cube.dll adx winamp plugin in order to hear Kagome's Intro Storyboard.
 If there is demand, an alternate audio format will be used.
 
----
-#WIP Updates / TO DO Checklist
-[x] All Required Sprites<br />
-[x] All Basic Movement<br />
-[x] All Basic Attacks<br />
-[x] Intro,Lose,Win Animations<br />
-[x] All Special Moves<br />
-[x] Backpack throw (It still looks odd to me >:P)<br />
-[x] Super Arrow (Level 1 Super)<br />
-[x] English  Voice<br />
-[x] Japanese Voice<br />
-[x] Hit/Guard and other basic sounds<br />
-[x] "Sit Boy!" Throw vs Inuyasha<br />
-[x] Air Throw<br />
-[x] Intro Storyboard from PSOne fighter<br />
-[x] Removed an infinite in one of her Yasha combos<br />
-[x] Fixed Kagome Explosion spark, bound it to Kagome -Thanks Kung Fu Man for spotting that<br />
-[x]  Added Hyper Image (Purely Cosmetic)<br />
-[ ]  Groped by Miroku<br />
-[ ]  Added an additional intro anim(vs Kikyo sound)<br />
-[ ] Tightened the timings on Yasha Combos<br />
-[ ] Corrected palette by separating colors on sprites<br />
-[ ] Ending<br />
-[ ] Midnight Bliss & Sexy KO<br />
-[ ] MUGEN 1.1 Fixes<br />
+##WIP Updates / TO DO Checklist
+- [x] All Required Sprites<br />
+- [x] All Basic Movement<br />
+- [x] All Basic Attacks<br />
+- [x] Intro,Lose,Win Animations<br />
+- [x] All Special Moves<br />
+- [x] Backpack throw (It still looks odd to me >:P)<br />
+- [x] Super Arrow (Level 1 Super)<br />
+- [x] English  Voice<br />
+- [x] Japanese Voice<br />
+- [x] Hit/Guard and other basic sounds<br />
+- [x] "Sit Boy!" Throw vs Inuyasha<br />
+- [x] Air Throw<br />
+- [x] Intro Storyboard from PSOne fighter<br />
+- [x] Removed an infinite in one of her Yasha combos<br />
+- [x] Fixed Kagome Explosion spark, bound it to Kagome -Thanks Kung Fu Man for spotting that<br />
+- [x]  Added Hyper Image (Purely Cosmetic)<br />
+- [ ]  Groped by Miroku<br />
+- [ ]  Added an additional intro anim(vs Kikyo sound)<br />
+- [ ] Tightened the timings on Yasha Combos<br />
+- [ ] Corrected palette by separating colors on sprites<br />
+- [ ] Ending<br />
+- [ ] Midnight Bliss & Sexy KO<br />
+- [ ] MUGEN 1.1 Fixes<br />
 
 ####1.6 Updates
 > Changed Volume to 0 from 255 in CNS <br />
