@@ -1,0 +1,61 @@
+State list - Reference for adding AI
+(Not useful for regular Mugen Players)
+
+Supers
+2000 - Super Arrow
+
+Specials
+1000 - Arrow Shoot
+1500 - Angry Explosion
+203  - Ball Special
+206  - Ball Special Combo Duplicate
+
+Throws
+800 - Standing Throw
+850 - Air Throw
+517 - Sit
+
+Combo Move
+201 - Stand Light Punch 2
+202 - Stand Light Punch 3
+204 - SLP 3 Duplicate
+211 - Stand Strong Punch 2
+222 - SSP 2 Duplicate
+212 - Stand Strong Punch 3
+224 - SSP 3 Duplicate
+232 - SSP 3 Duplicate
+236 - SSP 3 Duplicate
+242 - SLP 3 Duplicate
+252 - SLP 3 Duplicate
+
+401 - Crouch Light Punch 2
+
+402 - Crouch Light Punch 3
+404 - CLP 3 Duplicate
+442 - CLP 3 Duplicate
+452 - CLP 3 Duplicate
+
+411 - Crouch Strong Punch 2
+422 - CSP 2
+
+412 - Crouch Strong Punch 3
+424 - CSP 3 Duplicate
+432 - CSP 3 Duplicate
+436 - CSP 3 Duplicate
+
+
+Basics
+200 - Stand Light Punch
+210 - Stand Strong Punch
+400 - Crouch Light Punch
+410 - Crouch Strong Punch
+600 - Jump Light Punch
+610 - Jump Strong Punch
+
+Dash Attacks
+620 - Dash Fwd Punch
+621 - Dash Back Punch
+
+Run
+100 - Run Fwd
+105 - Run Back

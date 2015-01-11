@@ -1,0 +1,49 @@
+;========================================;
+;        Character Def File for:         ;
+;            Kagome Higurashi            ;
+;                for                     ;
+;               MUGEN                    ;
+;                                        ;
+;                By VinceJ               ;
+;                                        ;
+;  http://www.mugenguild.net/~vincej     ;
+;                                        ;
+;                                        ;
+;========================================;
+
+[Info]
+name = "Kagome-sama by VinceJ" ;Yes.
+displayname = "Kagome"         ;What it shows, thus DISPLAY NAME
+versiondate = 08,21,2004       ;Date I started this project, Can you say "Lazy!" ?
+mugenversion = 04,14,2002      ;WinMugen Only, If it works in DOS, that's nice... -_-
+author = "VinceJ"              ;That's me. ^_^
+pal.defaults = 6,3,7,11 ;1,6,9,8,4,10,3,7,2,11,5 ;Ordered by personal favorites
+
+[Files]
+cns = Kagome.cns        ;Basic Constants
+cmd = Kagome.cmd        ;The "moves"
+stcommon = common1.cns  ;MUGEN's common states
+sprite = Kagome.sff     ;Kagome's Sprites, Rip your own sprites, I spent a while on this.
+anim = Kagome.air       ;Animation File with Animation ID reference
+st = Kagome.st          ;States
+st1 = Kagome2.st        ;Got lazy, duplicate states
+;sound = Kagome.snd     ;English sound File
+sound = Kagome_JPN.snd  ;Japanese sound File
+pal1 = final_kagome.act ;Base Palette
+pal2 = idunno.act       ;Palette by LegatoB
+pal3 = kazama.act       ;LegatoB stole my wallet.
+pal4 = leon.act         ;LegatoB was lifted over Titiln's head, IT TAKES SKILL.
+pal5 = mitsu.act        ;LegatoB is Fat.
+pal6 = yumiduka.act     ;I'll palette LegatoB's Mom.
+pal7 = autumn.act       ;Kung Fu Man can balance books on his head.
+pal8 = KagomeEXE.act    ;I once dreamed ShoShingo made all the Megaman characters.
+pal9 = DrLight.act      ;ShoShingo once killed a hawk by looking at it.
+pal10 = shadow.act      ;LadyKiKi tried to injure me with a spork.
+pal11 = messatsu.act    ;Messatsu hates me. :(
+pal12 = blue_Dohko.act  ;Blue palette by Dohko
+;bin  = kagome.bin      ;InfinityCat support, use St_Conv on this character to generate the .bin file
+
+; Arcade mode
+[Arcade]
+intro.storyboard = intro.def     ;Kagome's Intro
+;ending.storyboard = ending.def  ;Ending

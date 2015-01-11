@@ -1,0 +1,229 @@
+; Introduction cutscene for Kagome's story.
+
+[SceneDef]
+spr = intro.sff
+startscene = 0         ;Starting scene number (for debugging)
+
+;================================
+;= Kagome at Higurashi Shrine 1 =
+;================================
+
+[Scene 0]
+; Fade
+fadein.time = 10       ;Time to take for fading in
+fadein.col = 0,0,0     ;Use 255,255,255 for white-fade
+; Music
+bgm = kgm_intro2.adx        ;Name of music file to play
+bgm.loop = 0
+bg.name = KGM0
+end.time = 230
+
+[KGM0Def]
+[KGM0 Bottom]
+type = normal
+spriteno = 1,0
+start = -160,0
+velocity = 0
+
+[KGM0 Top]
+type = normal
+spriteno = 0,0
+start = -160,0
+velocity = 0
+
+;================================
+;= Kagome at Higurashi Shrine 2 =
+;================================
+
+[Scene 1]
+fadein.time = 0
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  0      
+layer1.starttime = 0
+
+end.time = 220
+
+[Begin Action 0]
+0,1, 0,0, -1
+
+[Begin Action 1]
+1,0, 0,0, -1
+
+;============================
+;= Inuyasha Bound to tree   =
+;============================
+
+[Scene 2]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  8      
+layer1.starttime = 0
+
+end.time = 400
+
+[Begin Action 8]
+0,2, 0,0, -1
+
+;======================================
+;= Inuyasha attacks with Iron Reaver  =
+;======================================
+
+[Scene 3]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  2      
+layer1.starttime = 0
+end.time = 430
+
+[Begin Action 2]
+0,3, 0,0, -1
+
+;==============================
+;= Kagome holds a Jewel Shard =
+;==============================
+
+[Scene 4]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  3      
+layer1.starttime = 0
+end.time = 350
+
+[Begin Action 3]
+0,4, 0,0, -1
+
+;================================
+;= Kagome holds a Jewel Shard 2 =
+;================================
+
+[Scene 5]
+fadein.time = 0
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  9      
+layer1.starttime = 0
+end.time = 230
+
+[Begin Action 9]
+0,5, 0,0, -1
+
+;==================================
+;= Inuyasha carries Kagome's bike =
+;==================================
+
+[Scene 6]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  4      
+layer1.starttime = 0
+end.time = 410
+
+[Begin Action 4]
+0,6, 0,0, -1
+
+;========================
+;= Naraku Baboon Pelt 1 =
+;========================
+
+[Scene 7]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  5      
+layer1.starttime = 0
+end.time = 245
+
+[Begin Action 5]
+0,7, 0,0, -1
+
+;=========================
+;= Naraku Baboon Pelt 2  =
+;=========================
+
+[Scene 8]
+fadein.time = 0
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  10      
+layer1.starttime = 0
+end.time = 255
+
+[Begin Action 10]
+0,8, 0,0, -1
+
+;=============================
+;= Shippo, Miroku, and Sango =
+;=============================
+
+[Scene 9]
+fadein.time = 10
+fadein.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  6      
+layer1.starttime = 0
+end.time = 580
+
+[Begin Action 6]
+0,9, 0,0, -1
+
+;===============================
+;=       Group Photo           =
+;===============================
+
+[Scene 10]
+fadein.time = 10
+fadein.col = 0,0,0
+fadeout.time = 130
+fadeout.col = 0,0,0
+layerall.pos = -160,0  ;Default position for all layers
+layer0.offset = 160,0
+layer0.anim =  1      
+layer0.starttime = 0
+layer1.offset = 160,0
+layer1.anim =  11      
+layer1.starttime = 0
+end.time = 1050
+
+[Begin Action 11]
+0,10, 0,0, -1
