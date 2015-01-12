@@ -56,7 +56,7 @@ getpower = 14,0
 givepower = 28,0
 fall.recover = 0
 ID = 204
-hitcountpersist = 1
+
 
 [State 204, 7]
 type = ChangeState
@@ -116,7 +116,7 @@ fall.recover = 0
 getpower = 14,0
 givepower = 28,0
 ID = 212
-hitcountpersist = 1
+
 
 [State 224, 5]
 type = ChangeState
@@ -213,7 +213,7 @@ postype = p1
 fall = 1
 fall.recover = 0
 ID = 206
-hitcountpersist = 1
+
 
 [State 206, 8]
 type = ChangeState
@@ -267,7 +267,7 @@ ground.velocity = -6
 air.velocity = -1.5,-3
 getpower = 14,0
 givepower = 28,0
-hitcountpersist = 1
+
 
 [State 404, 4]
 type = ChangeState
@@ -318,7 +318,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 14,0
 givepower = 14,28
-hitcountpersist = 1
+
 
 [State 424, 4]
 type = ChangeState
@@ -377,7 +377,7 @@ air.fall = 1
 fall.recover = 0
 getpower = 42,0
 givepower = 12,0
-hitcountpersist = 1
+
 
 [State 222, 5]
 type = ChangeState
@@ -428,7 +428,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 28,0
 givepower = 28,28
-hitcountpersist = 1
+
 
 [State 422, 4]
 type = ChangeState
@@ -488,7 +488,7 @@ fall.recover = 0
 getpower = 14,0
 givepower = 28,0
 ID = 232
-hitcountpersist = 1
+
 
 [State 232, 5]
 type = ChangeState
@@ -548,7 +548,7 @@ fall.recover = 0
 getpower = 14,0
 givepower = 28,0
 ID = 236
-hitcountpersist = 1
+
 
 [State 236, 5]
 type = ChangeState
@@ -599,7 +599,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 14,0
 givepower = 14,28
-hitcountpersist = 1
+
 
 [State 432, 4]
 type = ChangeState
@@ -650,7 +650,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 14,0
 givepower = 14,28
-hitcountpersist = 1
+
 
 [State 436, 4]
 type = ChangeState
@@ -712,7 +712,7 @@ getpower = 14,0
 givepower = 28,0
 fall.recover = 0
 ID = 242
-hitcountpersist = 1
+
 
 [State 242, 7]
 type = ChangeState
@@ -774,7 +774,7 @@ getpower = 14,0
 givepower = 28,0
 fall.recover = 0
 ID = 252
-hitcountpersist = 1
+
 
 [State 252, 7]
 type = ChangeState
@@ -828,7 +828,7 @@ ground.velocity = -6
 air.velocity = -1.5,-3
 getpower = 14,0
 givepower = 28,0
-hitcountpersist = 1
+
 
 [State 442, 4]
 type = ChangeState
@@ -882,7 +882,7 @@ ground.velocity = -6
 air.velocity = -1.5,-3
 getpower = 14,0
 givepower = 28,0
-hitcountpersist = 1
+
 
 [State 452, 4]
 type = ChangeState
