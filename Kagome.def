@@ -6,7 +6,7 @@
 ;                                        ;
 ;                By VinceJ               ;
 ;                                        ;
-;  http://www.mugenguild.net/~vincej     ;
+;  http://vincej.piiym.net/              ;
 ;                                        ;
 ;                                        ;
 ;========================================;
@@ -14,10 +14,14 @@
 [Info]
 name = "Kagome-sama by VinceJ" ;Yes.
 displayname = "Kagome"         ;What it shows, thus DISPLAY NAME
-versiondate = 08,21,2004       ;Date I started this project, Can you say "Lazy!" ?
-mugenversion = 04,14,2002      ;WinMugen Only, If it works in DOS, that's nice... -_-
-author = "VinceJ"              ;That's me. ^_^
-pal.defaults = 6,3,7,11 ;1,6,9,8,4,10,3,7,2,11,5 ;Ordered by personal favorites
+;versiondate = 08,21,2004       ;Date I started this project, Can you say "Lazy!" ?
+versiondate = 01,12,2015
+mugenversion = 1.0
+;mugenversion = 04,14,2002      ;WinMugen Only, If it works in DOS, that's nice... -_-
+author = "VinnyJ"              ;That's me. ^_^
+;pal.defaults = 6,3,7,11 ;1,6,9,8,4,10,3,7,2,11,5 ;Ordered by personal favorites
+pal.defaults = 1,2,3,4
+localcoord = 320,240
 
 [Files]
 cns = Kagome.cns        ;Basic Constants
@@ -29,19 +33,36 @@ st = Kagome.st          ;States
 st1 = Kagome2.st        ;Got lazy, duplicate states
 ;sound = Kagome.snd     ;English sound File
 sound = Kagome_JPN.snd  ;Japanese sound File
-pal1 = final_kagome.act ;Base Palette
-pal2 = idunno.act       ;Palette by LegatoB
-pal3 = kazama.act       ;LegatoB stole my wallet.
-pal4 = leon.act         ;LegatoB was lifted over Titiln's head, IT TAKES SKILL.
-pal5 = mitsu.act        ;LegatoB is Fat.
-pal6 = yumiduka.act     ;I'll palette LegatoB's Mom.
-pal7 = autumn.act       ;Kung Fu Man can balance books on his head.
-pal8 = KagomeEXE.act    ;I once dreamed ShoShingo made all the Megaman characters.
-pal9 = DrLight.act      ;ShoShingo once killed a hawk by looking at it.
-pal10 = shadow.act      ;LadyKiKi tried to injure me with a spork.
-pal11 = messatsu.act    ;Messatsu hates me. :(
-pal12 = blue_Dohko.act  ;Blue palette by Dohko
+ai = Kagome.ai          ;AI hints data (not used)
+
+;pal1 = final_kagome.act ;Base Palette
+;pal2 = idunno.act       ;Palette by LegatoB
+;pal3 = kazama.act       ;LegatoB stole my wallet.
+;pal4 = leon.act         ;LegatoB was lifted over Titiln's head, IT TAKES SKILL.
+;pal5 = mitsu.act        ;LegatoB is Fat.
+;pal6 = yumiduka.act     ;I'll palette LegatoB's Mom.
+;pal7 = autumn.act       ;Kung Fu Man can balance books on his head.
+;pal8 = KagomeEXE.act    ;I once dreamed ShoShingo made all the Megaman characters.
+;pal9 = DrLight.act      ;ShoShingo once killed a hawk by looking at it.
+;pal10 = shadow.act      ;LadyKiKi tried to injure me with a spork.
+;pal11 = messatsu.act    ;Messatsu hates me. :(
+;pal12 = blue_Dohko.act  ;Blue palette by Dohko
 ;bin  = kagome.bin      ;InfinityCat support, use St_Conv on this character to generate the .bin file
+
+; Maps character selection buttons to palette numbers.
+[Palette Keymap]
+x = 1 ;Press button X to select palette 1, etc.
+y = 2
+z = 3
+a = 4
+b = 5
+c = 6
+;x2 = 7 ;Hold Start and press button X for palette 7, etc.
+;y2 = 8
+;z2 = 9
+;a2 = 10
+;b2 = 11
+;c2 = 12
 
 ; Arcade mode
 [Arcade]
