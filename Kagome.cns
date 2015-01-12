@@ -10,7 +10,6 @@ airjuggle = 15
 sparkno = 2
 guard.sparkno = 40
 KO.echo = 0
-volume = 0
 IntPersistIndex = 58
 FloatPersistIndex = 40
 
