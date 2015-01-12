@@ -271,6 +271,7 @@ type = ChangeAnim
 trigger1 = RoundState = 0 && p2Name != "Lady_Kikyo"
 value = 190
 
+[State 190, Kikyo2]
 type = ChangeAnim
 trigger1 = RoundState = 0 && p2Name = "Lady_Kikyo"
 value = 191
@@ -280,7 +281,6 @@ type = PlaySnd
 triggerall = PalNo = 9
 trigger1 = AnimElem = 5 && Time > 5
 value = 191, 4
-volume = 255
 
 [State 190, assert] ;Assert this until you want "round 1, fight" to begin
 type = AssertSpecial
@@ -435,7 +435,7 @@ air.fall = 1
 getpower = 14,0
 givepower = 28,0
 fall.recover = 0
-hitcountpersist = 1
+
 
 [State 201, 7]
 type = ChangeState
@@ -498,7 +498,7 @@ getpower = 14,0
 givepower = 28,0
 fall.recover = 0
 ID = 202
-hitcountpersist = 1
+
 
 [State 202, 7]
 type = ChangeState
@@ -589,7 +589,7 @@ postype = p1
 fall = 1
 fall.recover = 0
 ID = 203
-hitcountpersist = 1
+
 
 [State 203, Mystic]
 type = PlaySnd
@@ -697,7 +697,7 @@ ground.velocity = -6
 air.velocity = -1.5,-3
 getpower = 14,0
 givepower = 28,0
-hitcountpersist = 1
+
 
 [State 401, 4]
 type = ChangeState
@@ -751,7 +751,7 @@ ground.velocity = -6
 air.velocity = -1.5,-3
 getpower = 14,0
 givepower = 28,0
-hitcountpersist = 1
+
 
 [State 402, 4]
 type = ChangeState
@@ -840,7 +840,7 @@ air.fall = 1
 fall.recover = 0
 getpower = 42,0
 givepower = 42,42
-hitcountpersist = 1
+
 
 [State 210, 3]
 type = PlaySnd
@@ -915,7 +915,7 @@ air.fall = 1
 fall.recover = 0
 getpower = 42,0
 givepower = 12,0
-hitcountpersist = 1
+
 
 [State 211, 5]
 type = ChangeState
@@ -975,7 +975,7 @@ fall.recover = 0
 getpower = 14,0
 givepower = 28,0
 ID = 212
-hitcountpersist = 1
+
 
 [State 212, 5]
 type = ChangeState
@@ -1026,7 +1026,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 28,0
 givepower = 28,42
-hitcountpersist = 1
+
 
 [State 410, 4]
 type = ChangeState
@@ -1082,7 +1082,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 28,0
 givepower = 28,28
-hitcountpersist = 1
+
 
 [State 411, 4]
 type = ChangeState
@@ -1133,7 +1133,7 @@ ground.velocity = -4
 air.velocity = -3,-4
 getpower = 14,0
 givepower = 14,28
-hitcountpersist = 1
+
 
 [State 412, 4]
 type = ChangeState
@@ -2519,7 +2519,7 @@ IgnoreHitPause = 1
 type = DisplayToClipboard
 trigger1 = 1
 ignorehitpause = 1
-text = "Kagome-sama by VinceJ. Like or Hate the character?\nComment at: http://vincej.piiym-net.com/"
+text = "Kagome-sama by VinceJ. Like or Hate the character?\nComment at: http://vincej.piiym.net/"
 
 [State -2]
 type = VarSet
