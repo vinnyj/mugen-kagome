@@ -13,7 +13,7 @@ startscene = 0         ;Starting scene number (for debugging)
 fadein.time = 10       ;Time to take for fading in
 fadein.col = 0,0,0     ;Use 255,255,255 for white-fade
 ; Music
-bgm = kgm_intro2.adx        ;Name of music file to play
+bgm = kgm_intro2.mp3        ;Name of music file to play
 bgm.loop = 0
 bg.name = KGM0
 end.time = 230
