@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.cns  diff=astextplain
+*.def diff=astextplain
+*.cmd diff=astextplain
+*.st diff=astextplain
