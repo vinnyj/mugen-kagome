@@ -1,8 +1,8 @@
-####__Kagome Higurashi from Inuyasha: Sengoku Otogi Kassen__
-#####Version ?.?? for M.U.G.E.N 1.1
-######*Ported by VinnyJ*
+####__Kagome Higurashi from Inuyasha: Sengoku Otogi Kassen__  
+#####Version ?.?? for M.U.G.E.N 1.1  
+######*Ported by VinnyJ*  
 
-* http://vincej.piiym.net/
+~http://vincej.piiym.net/~ DEAD
 * http://www.twitch.tv/entec4
 * https://github.com/vinnyj/mugen-kagome
 
