@@ -3,7 +3,7 @@
 ######*Ported by VinnyJ*  
 
 ~vincej.piiym.net~
-* http://www.twitch.tv/entec4
+* http://www.twitch.tv/v_denovo
 * https://github.com/vinnyj/mugen-kagome
 
 #####_Feedback and Comments?_
